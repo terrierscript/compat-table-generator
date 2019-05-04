@@ -20,7 +20,7 @@ const generate = (category, fnName) => {
         [[], [], []]
       )
       .map((row) => {
-        return row.join(" | ") + "　|"
+        return row.join(" | ") + " |"
       })
       .join("\n")
   }
