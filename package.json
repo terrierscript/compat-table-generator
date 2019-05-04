@@ -1,0 +1,9 @@
+{
+  "name": "compat-table-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mdn-browser-compat-data": "^0.0.78"
+  }
+}
